@@ -1,7 +1,5 @@
 # olor-moderation-ui
 
-## 
-
 ![](http://imgur.com/1YadNYP.png)
 
 ## Development
